@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f5404a165f7ea2478a26d2aa6daef0d, type: 3}
+  m_Name: MessageText
+  m_EditorClassIdentifier: 
+  messages:
+  - type: 0
+    text: New Lobby Created
+  - type: 1
+    text: No avalible Lobby
+  - type: 2
+    text: Join Lobby
+  - type: 3
+    text: Join Relay
+  - type: 4
+    text: Create Server
+  - type: 5
+    text: Server is listening
+  - type: 6
+    text: Client try conncting
+  - type: 7
+    text: Client connected
+  - type: 8
+    text: Waiting player
+  - type: 9
+    text: 
